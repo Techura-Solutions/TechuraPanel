@@ -1,0 +1,3 @@
+<?php 
+$company = "Techura Solutions";
+?>
